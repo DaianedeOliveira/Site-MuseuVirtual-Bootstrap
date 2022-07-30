@@ -3,4 +3,4 @@
 
 ## 📱 Tecnologias utilizadas:
 #### HTML, CSS e JavaScript 
-### Link projeto: [LINK1] (https://daianedeoliveira.github.io/Site-MuseuVirtual-Bootstrap/)
+### Link projeto: [link1](https://daianedeoliveira.github.io/Site-MuseuVirtual-Bootstrap/)
